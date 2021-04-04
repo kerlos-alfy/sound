@@ -12591,7 +12591,17 @@ textarea.form-control {
 }
 
 .ftco-section {
-    padding: 8em 0;
+    padding: 0em 0;
+    position: relative;
+}
+
+.ftco-section6 {
+    padding: 0em 0;
+    position: relative;
+}
+
+.ftco-section8 {
+    padding-top: 8em;
     position: relative;
 }
 
